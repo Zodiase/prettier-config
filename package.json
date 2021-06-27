@@ -1,0 +1,22 @@
+{
+    "name": "@xch/prettier-config",
+    "version": "0.0.1",
+    "description": "My personal Prettier config",
+    "main": "prettier.config.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Zodiase/prettier-config.git",
+        "directory": "./"
+    },
+    "scripts": {
+        "format": "prettier --write .",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Xingchen Hong <hello@xc-h.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "eslint": "^7.29.0",
+        "eslint-config-prettier": "^8.3.0",
+        "prettier": "2.3.2"
+    }
+}
