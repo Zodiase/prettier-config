@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ npm install --dev @xch/prettier-config
+$ npm install --save-dev @xch/prettier-config
 ```
 
 **Edit `package.json`**:
