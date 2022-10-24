@@ -1,6 +1,6 @@
 {
     "name": "@xch/prettier-config",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "My personal Prettier config",
     "main": "prettier.config.js",
     "repository": {
@@ -14,9 +14,9 @@
     },
     "author": "Xingchen Hong <hello@xc-h.com>",
     "license": "MIT",
-    "devDependencies": {
-        "eslint": "^7.29.0",
-        "eslint-config-prettier": "^8.3.0",
-        "prettier": "2.3.2"
+    "peerDependencies": {
+        "eslint": "^8.26.0",
+        "eslint-config-prettier": "^8.5.0",
+        "prettier": "2.7.1"
     }
 }
