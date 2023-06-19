@@ -1,6 +1,6 @@
 {
     "name": "@xch/prettier-config",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "My personal Prettier config",
     "main": "prettier.config.cjs",
     "files": [
